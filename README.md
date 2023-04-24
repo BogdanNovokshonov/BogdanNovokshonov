@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Bogdan** and **I am a python developer**:
 
-🌱**Current tech stack**: Python, SQL, Pandas, Sklearn, matplotlib
+🌱**Current tech stack**: Python, SQL, Pandas, Sklearn
 
 📫 **How to reach me** bogdannovokshonov23@gmail.com
 <!--
