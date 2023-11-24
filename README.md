@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Bogdan** and **I am python developer**:
 
-🌱**Current tech stack**: Python, Pandas, SQL, Django, Django REST, Docker(beginner), Ubuntu(beginner)  
+🌱**Current tech stack**: Python, SQL, Django, Docker(beginner), Ubuntu(beginner)  
 
 📫 **How to reach me** bogdannovokshonov23@gmail.com
 <!--
