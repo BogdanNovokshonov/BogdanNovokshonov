@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Bogdan** and **I am python developer**:
 
-🌱**Current tech stack**: Python, SQL, Django, HTML, CSS, Docker(beginner) 
+🌱**Current tech stack**: Python, SQL, Django, HTML, CSS, Docker(beginner), FastAPI, PostgreSQL
 
 📫 **How to reach me** Telegram: [@rayqvaza](https://t.me/rayqvaza)
 <!--
